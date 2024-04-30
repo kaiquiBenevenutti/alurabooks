@@ -34,3 +34,25 @@
     font-family: var(--fonte-principal);
     padding-left: 2rem;
 }
+
+@media screen and (min-width: 1024px) {
+    .contato {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .contato__titulo {
+        font-size: 1.5rem;
+        margin-bottom: 1rem;
+    }
+
+    .contato__descricao {
+        width: 30%;
+        margin-right: 3rem;
+    }
+
+    .contato__email {
+        width: 30%;
+    }
+}

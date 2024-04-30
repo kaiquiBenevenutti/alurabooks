@@ -15,6 +15,8 @@
     --azul: #002F52;
     --preto: rgba(0, 0, 0, 0.85);
     --fonte-secundaria: 'Josefin Sans';
+    --cor-da-lista-titulo: #858585;
+    --cor-da-lista-texto: #474646;
 }
 
 body {
