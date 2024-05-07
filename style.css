@@ -30,6 +30,10 @@ body {
     background-color: #815703;
 }
 
+.botao__hover:checked {
+    background-color: #002F52;
+}
+
 header {
     align-items: center;
 }
